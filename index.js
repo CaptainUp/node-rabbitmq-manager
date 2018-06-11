@@ -1,5 +1,5 @@
 var httpClients = require('./clients.js')
-const formUrlencoded = require('form-urlencoded').default
+const formUrlencoded = require('form-urlencoded')
 
 /**
  *   Create a new client. Default config :
